@@ -1,4 +1,4 @@
-This repository contains simplified and adjusted OpenColorUI ACES configs, to be used in animation.
+This repository contains simplified and adjusted OpenColorIO ACES configs, to be used in the production of animation.
 
 This flavor of the ACES configuration is tweaked the original configurations from *Sony Pictures Imageworks*, where all camera-specific color profiles were removed to make things simpler when working in full animation pipelines, which don't need these profiles.
 
