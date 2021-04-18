@@ -1,4 +1,7 @@
-This repository contains all the default color configurations, for use with
-OpenColorIO.
+This repository contains simplified and adjusted OpenColorUI ACES configs, to be used in animation.
 
-Visit opencolorio.org for additional information.
+We tweaked a bit the original configurations from *Sony Pictures Imageworks*, and removed all camera-specific color profiles to make things simpler when working in full animation pipelines, which don't need these profiles.
+
+This new version of the ACES config is especially suited for working with [Blender](http://blender.org), as Blender does not filter all the color spaces, making it difficult to work with too many of them. This version of the config fixes that by removing un-needed profiles.
+
+If you need to get back specific color spaces, it should be pretty easy to grab it [from the original config](https://github.com/imageworks/OpenColorIO-Configs).
