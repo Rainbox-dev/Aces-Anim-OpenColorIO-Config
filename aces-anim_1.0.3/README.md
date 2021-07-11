@@ -24,7 +24,7 @@ If you need to get back specific color spaces, it should be pretty easy to grab 
 Colorspaces
 -
 
-Colorspaces in this configurations are grouped into the following families: ACES, ADX, Look, Output, Input, Utility, Aliases. Descriptions for the colorspaces in the different families are provided below.
+Colorspaces in this configuration are grouped into the following families: ACES, ADX, Look, Output, Input, Utility, Aliases. Descriptions for the colorspaces in the different families are provided below.
 
 For ease of use across a broader number of applications, the family name of each colorspace is pre-prended to the colorspace name when the configuration is authored. Those prefixes will be omitted in this document, but will show up when the configuration is loaded and used.
 
